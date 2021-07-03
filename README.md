@@ -1,2 +1,2 @@
 # genetic-algorithm
-this is a genetic algorithm with python 
+This is a genetic algorithm with python for my final AI project
